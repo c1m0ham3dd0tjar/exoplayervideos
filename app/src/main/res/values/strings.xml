@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">مسلسل في كل أسبوع يوم جمعة</string>
+
+    <string name="wallpapercave">https://wallpapercave.com</string>
+
+
+    <string name="error_message_url_not_valid">error_message_url_not_valid</string>
+
+</resources>
